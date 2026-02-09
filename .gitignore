@@ -1,0 +1,10 @@
+build/
+.xmake/
+bin/
+*.o
+*.out
+*.so
+*.a
+.vscode/
+.clangd
+imgui.ini
